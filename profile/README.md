@@ -9,6 +9,7 @@ Forum: [https://github.com/vsb-js/forum-2022-winter/discussions](https://github.
 ## Lectures
 - 00 Introduction to the subject - [Presentation](https://docs.google.com/presentation/d/16o3jYRSgtOH3ReNs_BnFjJm1YKo6B6AvPbr2ezX8thk/edit?usp=sharing)
 - 01 Introduction to JavaScript - [Presentation](https://docs.google.com/presentation/d/1W0BOlVOlL0CAt83R0oOWBTFCpiT3fyion4VCW6STYBg/edit?usp=sharing)
+- 02 JS Basics, promises, npm, node - [Presentation](https://docs.google.com/presentation/d/1n04NEt9gc4ccla-RbKz68l2yjcZBqZEeyXZpo4P1-vw/edit?usp=sharing)
 
 ## Labs
 - 01 N/A
@@ -17,6 +18,13 @@ Forum: [https://github.com/vsb-js/forum-2022-winter/discussions](https://github.
       - Install [git](https://desktop.github.com/) (verify using `git --verison` in terminal) - You can also use [GitHub Desktop App](https://desktop.github.com/) - might be easier) 
       - Make sure you have GitHub account and properly setup your machine to work with git (You should be able to push into your repositories on GitHub - you can use the GitHub desktop app to do that.
       - Install IDE of your choice for JS (Recommended [Visual Studio Code](https://code.visualstudio.com/) or [WebStorm](https://www.jetbrains.com/webstorm/) (Similary to PyCharm))
+
+
+- 02 JS Basics, promises, npm, node
+  - Assigment TBD
+  - You can get 5 points for all the tasks in the README
+  - You can get 1 extra point for taks marked as BONUS
+  - Deadline TBD
 
 #### Labs evaluation
 - Your work has to be submitted via GitHub classroom into your assigment repo before the deadline (7-14 days after the date of lab)
