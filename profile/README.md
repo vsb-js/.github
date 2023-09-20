@@ -21,10 +21,10 @@ Forum: [https://github.com/vsb-js/forum-2022-winter/discussions](https://github.
 
 
 - 02 JS Basics, promises, npm, node
-  - Assigment TBD
+  - Assigment https://classroom.github.com/a/n92QC35q
   - You can get 5 points for all the tasks in the README
   - You can get 1 extra point for taks marked as BONUS
-  - Deadline TBD
+  - Due Oct 4, 2023, 15:57 CEST
 
 #### Labs evaluation
 - Your work has to be submitted via GitHub classroom into your assigment repo before the deadline (7-14 days after the date of lab)
