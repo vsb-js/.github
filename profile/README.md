@@ -28,9 +28,9 @@ Forum: [https://github.com/vsb-js/forum-2022-winter/discussions](https://github.
   - Due Oct 4, 2023, 15:57 CEST
 
 - 03 Node Modules and debugging 
-  - Assigment TBD
+  - Assigment https://classroom.github.com/a/A_sufiXF
   - You can get 5 points for all the tasks in the README
-  - Due TBD
+  - Due Due Oct 11, 2023, 16:02 CEST
 
 #### Labs evaluation
 - Your work has to be submitted via GitHub classroom into your assigment repo before the deadline (7-14 days after the date of lab)
