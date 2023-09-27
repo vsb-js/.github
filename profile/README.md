@@ -40,6 +40,7 @@ In cases where code is copied 1:1, both students get 0 points.
 
 #### Tips and tricks:
 - [How to format your code](https://github.com/vsb-js/forum-2021-winter/discussions/2)
+- [How to submit your code to GitHub](https://github.com/vsb-js/forum-2023-winter/discussions/3)
 
 ## Project - FE React App
 TBD
