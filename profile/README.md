@@ -11,6 +11,7 @@ Forum: [https://github.com/vsb-js/forum-2022-winter/discussions](https://github.
 - 01 Introduction to JavaScript - [Presentation](https://docs.google.com/presentation/d/1W0BOlVOlL0CAt83R0oOWBTFCpiT3fyion4VCW6STYBg/edit?usp=sharing)
 - 02 JS Basics, promises, npm, node - [Presentation](https://docs.google.com/presentation/d/1n04NEt9gc4ccla-RbKz68l2yjcZBqZEeyXZpo4P1-vw/edit?usp=sharing)
 - 03 Modules and debugging - [Presentation](https://docs.google.com/presentation/d/1bcvp-hYMVqgWHsIyhlFvpA0cqsHTJW3DdMXy0TbKoUI/edit?usp=sharing)
+- 04 NodeJS - Express - [Presentation](https://docs.google.com/presentation/d/1an0me9l1GGh8o8KKzidoUPoFco3Y93rm-3dIibr_D-c/edit?usp=sharing)
 
 ## Labs
 - 01 N/A
@@ -31,6 +32,12 @@ Forum: [https://github.com/vsb-js/forum-2022-winter/discussions](https://github.
   - Assigment https://classroom.github.com/a/A_sufiXF
   - You can get 5 points for all the tasks in the README
   - Due Due Oct 11, 2023, 16:02 CEST
+
+- 04 NodeJS Express
+  - Assigment 
+  - You can get 5 points for all the tasks in the README
+  - 
+
 
 #### Labs evaluation
 - Your work has to be submitted via GitHub classroom into your assigment repo before the deadline (7-14 days after the date of lab)
