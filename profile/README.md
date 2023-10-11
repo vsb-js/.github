@@ -40,8 +40,9 @@ Forum: [https://github.com/vsb-js/forum-2022-winter/discussions](https://github.
   - Due Oct 18, 2023, 14:43 CEST
 
 - 05 NodeJS ORM 
-  - Assigment TODO
+  - Assigment https://classroom.github.com/a/7A_jqZbF
   - You can get 5 points for all the tasks in the README
+  - Due Oct 25, 2023, 16:40 CEST
 
 
 #### Labs evaluation
