@@ -13,6 +13,7 @@ Forum: [https://github.com/vsb-js/forum-2022-winter/discussions](https://github.
 - 03 Modules and debugging - [Presentation](https://docs.google.com/presentation/d/1bcvp-hYMVqgWHsIyhlFvpA0cqsHTJW3DdMXy0TbKoUI/edit?usp=sharing)
 - 04 NodeJS - Express - [Presentation](https://docs.google.com/presentation/d/1an0me9l1GGh8o8KKzidoUPoFco3Y93rm-3dIibr_D-c/edit?usp=sharing)
 - 05 NodeJS - ORM / Databaes layer - [Presentation](https://docs.google.com/presentation/d/1y1PUxy5He2XU5ES2G3nbNTqJkgLMA3M0IhGoEVK0Mt4/edit?usp=sharing)
+- 06 FE - SPA and React - [Presentation](https://docs.google.com/presentation/d/1HjyraQ8itNWo7PV1kaizyc57OpFq_QgJbLvKU1VsB9c/edit?usp=share_link)
 
 ## Labs
 - 01 N/A
@@ -44,6 +45,14 @@ Forum: [https://github.com/vsb-js/forum-2022-winter/discussions](https://github.
   - You can get 5 points for all the tasks in the README
   - Due Oct 25, 2023, 16:40 CEST
 
+- 06 React 
+ - Assigment https://classroom.github.com/a/c3JpkFSR
+ - You can get 5 points for all the tasks in the README
+ - Due Nov 1, 2023, 15:18 CEST
+
+## Project - FE React App
+- Project information is [here](https://docs.google.com/document/d/1NB0rCDMe5Ua_KcNPXDjWTwBU49EI74RehVgfxSBVoNg/edit?usp=sharing)
+- Will be in pairs (2 people per team)   
 
 #### Labs evaluation
 - Your work has to be submitted via GitHub classroom into your assigment repo before the deadline (7-14 days after the date of lab)
@@ -61,11 +70,7 @@ In cases where code is copied 1:1, both students get 0 points.
 - [How to format your code](https://github.com/vsb-js/forum-2021-winter/discussions/2)
 - [How to submit your code to GitHub](https://github.com/vsb-js/forum-2023-winter/discussions/3)
 
-## Project - FE React App
-TBD
-  
 
----
 
 ## Abstract
 This course builds on the theoretical knowledge the student has learned in previous years about building software systems and puts them into practice in the world of JavaScript language. In this course students will learn how t
