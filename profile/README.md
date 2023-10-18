@@ -4,7 +4,7 @@ General info about the subject JavaScript at VSB for EFREI students
 Lecture: Wednesday 16:00 - 17:30 - EB113  
 Labs: Wednesday 17:45 - 19:15 EB133
 
-Forum: [https://github.com/vsb-js/forum-2022-winter/discussions](https://github.com/vsb-js/forum-2023-winter/discussions)
+Forum: [https://github.com/vsb-js/forum-2023-winter/discussions](https://github.com/vsb-js/forum-2023-winter/discussions)
 
 ## Lectures
 - 00 Introduction to the subject - [Presentation](https://docs.google.com/presentation/d/16o3jYRSgtOH3ReNs_BnFjJm1YKo6B6AvPbr2ezX8thk/edit?usp=sharing)
