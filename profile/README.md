@@ -46,9 +46,9 @@ Forum: [https://github.com/vsb-js/forum-2023-winter/discussions](https://github.
   - Due Oct 25, 2023, 16:40 CEST
 
 - 06 React 
- - Assigment https://classroom.github.com/a/c3JpkFSR
- - You can get 5 points for all the tasks in the README
- - Due Nov 1, 2023, 15:18 CEST
+  - Assigment https://classroom.github.com/a/c3JpkFSR
+  - You can get 5 points for all the tasks in the README
+  - Due Nov 1, 2023, 15:18 CEST
 
 #### Labs evaluation
 - Your work has to be submitted via GitHub classroom into your assigment repo before the deadline (7-14 days after the date of lab)
