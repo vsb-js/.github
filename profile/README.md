@@ -61,7 +61,7 @@ Forum: [https://github.com/vsb-js/forum-2023-winter/discussions](https://github.
 - Will be in pairs (2 people per team)   
 
   
-##### Cheating / copying the code
+#### Cheating / copying the code
 It's OK to help each other out in the tasks. To tell your friend the solution. Link him the stack overflow answer or something. But in most cases the tasks are per multiple lines and we can really tell that you copied the code exactly 1:1 from someone else and didn't even changed single character.
 
 In cases where code is copied 1:1, both students get 0 points.
