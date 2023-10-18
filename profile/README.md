@@ -50,15 +50,15 @@ Forum: [https://github.com/vsb-js/forum-2023-winter/discussions](https://github.
  - You can get 5 points for all the tasks in the README
  - Due Nov 1, 2023, 15:18 CEST
 
-## Project - FE React App
-- Project information is [here](https://docs.google.com/document/d/1NB0rCDMe5Ua_KcNPXDjWTwBU49EI74RehVgfxSBVoNg/edit?usp=sharing)
-- Will be in pairs (2 people per team)   
-
 #### Labs evaluation
 - Your work has to be submitted via GitHub classroom into your assigment repo before the deadline (7-14 days after the date of lab)
 - 5 points for each lab 
   - 5 points - for finishing the tasks properly ((finished tasks / amount of tasks) * 5)
   - -1 point - if we can not run your file / project should be without error! 
+
+### Project - FE React App
+- Project information is [here](https://docs.google.com/document/d/1NB0rCDMe5Ua_KcNPXDjWTwBU49EI74RehVgfxSBVoNg/edit?usp=sharing)
+- Will be in pairs (2 people per team)   
 
   
 ##### Cheating / copying the code
