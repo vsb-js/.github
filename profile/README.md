@@ -49,6 +49,12 @@ Forum: [https://github.com/vsb-js/forum-2023-winter/discussions](https://github.
   - Assigment https://classroom.github.com/a/c3JpkFSR
   - You can get 5 points for all the tasks in the README
   - Due Nov 1, 2023, 15:18 CEST
+ 
+- 07 React Hooks Part 1
+  - Assignment https://classroom.github.com/a/xTXlQPKq
+  - You can get 4 points for all the tasks in README
+  - You can get 1 bonus point for the BONUS task
+  - Due Nov 8, 2023, 16:00
 
 #### Labs evaluation
 - Your work has to be submitted via GitHub classroom into your assigment repo before the deadline (7-14 days after the date of lab)
