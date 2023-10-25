@@ -14,6 +14,7 @@ Forum: [https://github.com/vsb-js/forum-2023-winter/discussions](https://github.
 - 04 NodeJS - Express - [Presentation](https://docs.google.com/presentation/d/1an0me9l1GGh8o8KKzidoUPoFco3Y93rm-3dIibr_D-c/edit?usp=sharing)
 - 05 NodeJS - ORM / Databaes layer - [Presentation](https://docs.google.com/presentation/d/1y1PUxy5He2XU5ES2G3nbNTqJkgLMA3M0IhGoEVK0Mt4/edit?usp=sharing)
 - 06 FE - SPA and React - [Presentation](https://docs.google.com/presentation/d/1HjyraQ8itNWo7PV1kaizyc57OpFq_QgJbLvKU1VsB9c/edit?usp=share_link)
+- 07 React - Hooks Part 1 - [Presentation](https://docs.google.com/presentation/d/1qLPGPq45dUSXcJkKfPTnU9kraI2cF6FIAVF-3KEqnJc/edit?usp=sharing)
 
 ## Labs
 - 01 N/A
