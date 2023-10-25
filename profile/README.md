@@ -53,7 +53,7 @@ Forum: [https://github.com/vsb-js/forum-2023-winter/discussions](https://github.
  
 - 07 React Hooks Part 1
   - Assignment https://classroom.github.com/a/xTXlQPKq
-  - You can get 4 points for all the tasks in README
+  - You can get 5 points for all the tasks in README
   - You can get 1 bonus point for the BONUS task
   - Due Nov 8, 2023, 16:00
 
