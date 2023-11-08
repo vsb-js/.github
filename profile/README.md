@@ -16,6 +16,7 @@ Forum: [https://github.com/vsb-js/forum-2023-winter/discussions](https://github.
 - 06 FE - SPA and React - [Presentation](https://docs.google.com/presentation/d/1HjyraQ8itNWo7PV1kaizyc57OpFq_QgJbLvKU1VsB9c/edit?usp=share_link)
 - 07 React - Hooks Part 1 - [Presentation](https://docs.google.com/presentation/d/1qLPGPq45dUSXcJkKfPTnU9kraI2cF6FIAVF-3KEqnJc/edit?usp=sharing)
 - 08 React - Hooks Part 2 - [Presentation](https://docs.google.com/presentation/d/1_oexFWssL0sohA3n8Rp-v7KdT3PgWl_fEPv00_UkBH4/edit?usp=sharing)
+- 09 React - React Router - [Presentation](https://docs.google.com/presentation/d/1O54RE_uAL9F0JLzP5wsz8pgUmQh5sBLZvu6YQuFkWac/edit?usp=sharing)
 
 ## Labs
 - 01 N/A
@@ -62,6 +63,10 @@ Forum: [https://github.com/vsb-js/forum-2023-winter/discussions](https://github.
   - You can get 5 points for all the tasks in README
   - You can get 2 bonus point for the BONUS task
   - Due Nov 15, 2023, 16:00
+- 09 React Router
+  - Assignment https://classroom.github.com/a/GEa2w_eh
+  - You can get 5 points for all the tasks in README
+  - Due Nov 22, 2023, 16:00
 
 #### Labs evaluation
 - Your work has to be submitted via GitHub classroom into your assigment repo before the deadline (7-14 days after the date of lab)
