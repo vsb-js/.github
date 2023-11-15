@@ -69,7 +69,7 @@ Forum: [https://github.com/vsb-js/forum-2023-winter/discussions](https://github.
   - You can get 5 points for all the tasks in README
   - Due Nov 22, 2023, 16:00
 - 10 React UI Libraries
-  - Assignment https://classroom.github.com/a/uD_FnhvV
+  - Assignment https://classroom.github.com/a/GVaDWFNZ
   - You can get 5 points for all the tasks in README
   - Due Nov 29, 2023, 16:00
 
