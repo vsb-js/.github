@@ -80,6 +80,8 @@ Forum: [https://github.com/vsb-js/forum-2023-winter/discussions](https://github.
   - -1 point - if we can not run your file / project should be without error! 
 
 ### Project - FE React App
+- Assignment: https://classroom.github.com/a/nijsPAY-
+- Deadline: December 13th
 - Project information is [here](https://docs.google.com/document/d/1NB0rCDMe5Ua_KcNPXDjWTwBU49EI74RehVgfxSBVoNg/edit?usp=sharing)
 - Will be in pairs (2 people per team)   
 
