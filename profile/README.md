@@ -1,7 +1,7 @@
 # JavaScript (Advanced Web Programming) - Winter 2024
 General info about the subject JavaScript at VSB for EFREI students
 
-Lecture: Wednesday 16:00 - 17:30 - EB208
+Lecture: Wednesday 16:00 - 17:30 - EB208  
 Labs: Wednesday 17:45 - 19:15 EB208
 
 Forum: [https://github.com/vsb-js/forum-2024-winter/discussions](https://github.com/vsb-js/forum-2024-winter/discussions)
