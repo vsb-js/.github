@@ -7,8 +7,8 @@ Labs: Wednesday 17:45 - 19:15 EB208
 Forum: [https://github.com/vsb-js/forum-2024-winter/discussions](https://github.com/vsb-js/forum-2024-winter/discussions)
 
 ## Lectures
-- 00 Introduction to the subject - [Presentation]()
-- 01 Introduction to JavaScript - [Presentation]()
+- 00 Introduction to the subject - [Presentation](https://docs.google.com/presentation/d/1qgHBrHOD2_qUIrEMc_1kYHKuuWnc8yACPUsWok7e4BQ/edit?usp=sharing)
+- 01 Introduction to JavaScript - [Presentation](https://docs.google.com/presentation/d/1tGCqSmya6EgYjY5WaudsC7TZms9b5GCjXfIrO_KVLCo/edit?usp=sharing)
 
 
 ## Labs
