@@ -9,6 +9,7 @@ Forum: [https://github.com/vsb-js/forum-2024-winter/discussions](https://github.
 ## Lectures
 - 00 Introduction to the subject - [Presentation](https://docs.google.com/presentation/d/1qgHBrHOD2_qUIrEMc_1kYHKuuWnc8yACPUsWok7e4BQ/edit?usp=sharing)
 - 01 Introduction to JavaScript - [Presentation](https://docs.google.com/presentation/d/1tGCqSmya6EgYjY5WaudsC7TZms9b5GCjXfIrO_KVLCo/edit?usp=sharing)
+- 02 JavaScript Basics - repetition - [Presentation](https://docs.google.com/presentation/d/1u-EmNYo9q_SD4bM0SuQXo5nRql_11vzW_7WxBNkU_Ok/edit?usp=sharing)
 
 
 ## Labs
@@ -18,6 +19,8 @@ Forum: [https://github.com/vsb-js/forum-2024-winter/discussions](https://github.
       - Install [git](https://desktop.github.com/) (verify using `git --verison` in terminal) - we highly recommend [GitHub Desktop App](https://desktop.github.com/) if you haven't 
       - Make sure you have GitHub account and properly setup your machine to work with git (You should be able to push into your repositories on GitHub - you can use the GitHub desktop app to do that.
       - Install IDE of your choice for JS (Recommended [Visual Studio Code](https://code.visualstudio.com/) or [WebStorm](https://www.jetbrains.com/webstorm/) (Similary to PyCharm))
+- 02 JavaScript Basics
+  - Task: 
 
 #### Labs evaluation
 - Your work has to be submitted via GitHub classroom into your assigment repo before the deadline (7-14 days after the date of lab)
