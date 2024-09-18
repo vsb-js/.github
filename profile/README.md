@@ -20,7 +20,10 @@ Forum: [https://github.com/vsb-js/forum-2024-winter/discussions](https://github.
       - Make sure you have GitHub account and properly setup your machine to work with git (You should be able to push into your repositories on GitHub - you can use the GitHub desktop app to do that.
       - Install IDE of your choice for JS (Recommended [Visual Studio Code](https://code.visualstudio.com/) or [WebStorm](https://www.jetbrains.com/webstorm/) (Similary to PyCharm))
 - 02 JavaScript Basics
-  - Task: 
+  - Assigment: https://classroom.github.com/a/F5sxAol-
+  - You can get 5 points for all the tasks in the README
+  - You can get 1 extra point for taks marked as BONUS
+  - Due Oct 2, 2024, 12:08 UTC
 
 #### Labs evaluation
 - Your work has to be submitted via GitHub classroom into your assigment repo before the deadline (7-14 days after the date of lab)
