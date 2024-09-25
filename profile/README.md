@@ -25,7 +25,10 @@ Forum: [https://github.com/vsb-js/forum-2024-winter/discussions](https://github.
   - Due Oct 2, 2024, 12:08 UTC
 
 - 03 JavaScript Modules 
-
+  - Assigment: https://classroom.github.com/a/k87jRz5r
+  - You can get 5 points for all the task in the README
+  - 1 extra point for BONUS
+  - Due Oct 9, 2024, 14:44 UTC
 
 #### Labs evaluation
 - Your work has to be submitted via GitHub classroom into your assigment repo before the deadline (7-14 days after the date of lab)
