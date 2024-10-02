@@ -11,6 +11,7 @@ Forum: [https://github.com/vsb-js/forum-2024-winter/discussions](https://github.
 - 01 Introduction to JavaScript - [Presentation](https://docs.google.com/presentation/d/1tGCqSmya6EgYjY5WaudsC7TZms9b5GCjXfIrO_KVLCo/edit?usp=sharing)
 - 02 JavaScript Basics - repetition - [Presentation](https://docs.google.com/presentation/d/1u-EmNYo9q_SD4bM0SuQXo5nRql_11vzW_7WxBNkU_Ok/edit?usp=sharing)
 - 03 JavaScript Modules & Debugging - [Presentation](https://docs.google.com/presentation/d/1xk17zQRoHy8TW0qdW7p3gS_zbwOz2UScfclZEK6P-ds/edit?usp=sharing)
+- 04 Express Web Server - [Presentation](https://docs.google.com/presentation/d/1IyK-z95aTWcT0LNyZt5itBbuawNY-zFxaNTih4MhfKQ/edit?usp=sharing)
 
 ## Labs
 - 01 N/A
@@ -29,6 +30,8 @@ Forum: [https://github.com/vsb-js/forum-2024-winter/discussions](https://github.
   - You can get 5 points for all the task in the README
   - 1 extra point for BONUS
   - Due Oct 9, 2024, 14:44 UTC
+ 
+- 04 Express 
 
 #### Labs evaluation
 - Your work has to be submitted via GitHub classroom into your assigment repo before the deadline (7-14 days after the date of lab)
