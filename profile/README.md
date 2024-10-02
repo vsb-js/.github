@@ -31,7 +31,11 @@ Forum: [https://github.com/vsb-js/forum-2024-winter/discussions](https://github.
   - 1 extra point for BONUS
   - Due Oct 9, 2024, 14:44 UTC
  
-- 04 Express 
+- 04 Express
+  - Assigment: https://classroom.github.com/a/QkcJwMBR
+  - You can get 5 points fro all the tasks in the README / index.js
+  - 1 extra point for BONUS taks
+  - Due Due Oct 16, 2024, 14:40 UTC
 
 #### Labs evaluation
 - Your work has to be submitted via GitHub classroom into your assigment repo before the deadline (7-14 days after the date of lab)
