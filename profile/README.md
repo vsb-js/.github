@@ -55,6 +55,8 @@ Forum: [https://github.com/vsb-js/forum-2024-winter/discussions](https://github.
 - Project information: TODO
 - Will be in pairs (2 people per team)   
 
+Points from the subject can be found [here](https://docs.google.com/spreadsheets/d/1WWXOO-Md-nbDdXOcOGv4hJRuxvbpoljmWnSZAKQoGuI/edit?usp=sharing).
+
   
 #### Cheating / copying the code
 It's OK to help each other out in the tasks. To tell your friend the solution. Link him the stack overflow answer or something. But in most cases the tasks are per multiple lines and we can really tell that you copied the code exactly 1:1 from someone else and didn't even changed single character.
