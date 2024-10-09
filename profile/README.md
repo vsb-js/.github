@@ -12,6 +12,7 @@ Forum: [https://github.com/vsb-js/forum-2024-winter/discussions](https://github.
 - 02 JavaScript Basics - repetition - [Presentation](https://docs.google.com/presentation/d/1u-EmNYo9q_SD4bM0SuQXo5nRql_11vzW_7WxBNkU_Ok/edit?usp=sharing)
 - 03 JavaScript Modules & Debugging - [Presentation](https://docs.google.com/presentation/d/1xk17zQRoHy8TW0qdW7p3gS_zbwOz2UScfclZEK6P-ds/edit?usp=sharing)
 - 04 Express Web Server - [Presentation](https://docs.google.com/presentation/d/1IyK-z95aTWcT0LNyZt5itBbuawNY-zFxaNTih4MhfKQ/edit?usp=sharing)
+- 05 Data Persitance - ORM Library - [Presentation](https://docs.google.com/presentation/d/10ZNOCBy_ltVmGfavtxstEKGugT-uID3bwpb1an0p4gM/edit?usp=sharing)
 
 ## Labs
 - 01 N/A
@@ -33,9 +34,14 @@ Forum: [https://github.com/vsb-js/forum-2024-winter/discussions](https://github.
  
 - 04 Express
   - Assigment: https://classroom.github.com/a/QkcJwMBR
-  - You can get 5 points fro all the tasks in the README / index.js
+  - You can get 5 points for all the tasks in the README / index.js
   - 1 extra point for BONUS taks
-  - Due Due Oct 16, 2024, 14:40 UTC
+  - Due Oct 16, 2024, 14:40 UTC
+
+- 05 ORM
+  - Assigment: https://classroom.github.com/a/vIPPSmsE
+  - You can get 5 points for all the tasks in `src/server.js`
+  - Due Oct 23, 2024, 13:10 UTC 
 
 #### Labs evaluation
 - Your work has to be submitted via GitHub classroom into your assigment repo before the deadline (7-14 days after the date of lab)
