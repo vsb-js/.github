@@ -13,6 +13,7 @@ Forum: [https://github.com/vsb-js/forum-2024-winter/discussions](https://github.
 - 03 JavaScript Modules & Debugging - [Presentation](https://docs.google.com/presentation/d/1xk17zQRoHy8TW0qdW7p3gS_zbwOz2UScfclZEK6P-ds/edit?usp=sharing)
 - 04 Express Web Server - [Presentation](https://docs.google.com/presentation/d/1IyK-z95aTWcT0LNyZt5itBbuawNY-zFxaNTih4MhfKQ/edit?usp=sharing)
 - 05 Data Persitance - ORM Library - [Presentation](https://docs.google.com/presentation/d/10ZNOCBy_ltVmGfavtxstEKGugT-uID3bwpb1an0p4gM/edit?usp=sharing)
+- 06 REST API - [Presentation](https://docs.google.com/presentation/d/17hIxbj8vsy7opjUwVM5RIjdRCf41Xts-EGLRMFNJnJg/edit?usp=sharing) 
 
 ## Labs
 - 01 N/A
@@ -41,7 +42,13 @@ Forum: [https://github.com/vsb-js/forum-2024-winter/discussions](https://github.
 - 05 ORM
   - Assigment: https://classroom.github.com/a/vIPPSmsE
   - You can get 5 points for all the tasks in `src/server.js`
-  - Due Oct 23, 2024, 13:10 UTC 
+  - Due Oct 23, 2024, 13:10 UTC
+
+- 06 REST API 
+  - Assigment: https://classroom.github.com/a/Ez58pwNR
+  - You can get 5 points for all the tasks in `src/server.js`
+  - 1 extra point as described in README
+  - Due Due Oct 30, 2024, 14:36 UTC
 
 #### Labs evaluation
 - Your work has to be submitted via GitHub classroom into your assigment repo before the deadline (7-14 days after the date of lab)
@@ -49,10 +56,10 @@ Forum: [https://github.com/vsb-js/forum-2024-winter/discussions](https://github.
   - 5 points - for finishing the tasks properly ((finished tasks / amount of tasks) * 5)
   - -1 point - if we can not run your file / project should be without error! 
 
-### Project - FE React App
-- Assignment: TODO
+### Project - FE & BE React App
+- Assignment: TODO 
 - Deadline: TODO
-- Project information: TODO
+- Project information: [here](https://docs.google.com/document/d/1Xn8qX5Meg4MHuIiGZNzHfnLpvN2YuczotkRvW4s9ZuE/edit?usp=sharing)
 - Will be in pairs (2 people per team)   
 
 Points from the subject can be found [here](https://docs.google.com/spreadsheets/d/1WWXOO-Md-nbDdXOcOGv4hJRuxvbpoljmWnSZAKQoGuI/edit?usp=sharing).
