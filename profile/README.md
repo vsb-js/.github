@@ -13,7 +13,8 @@ Forum: [https://github.com/vsb-js/forum-2024-winter/discussions](https://github.
 - 03 JavaScript Modules & Debugging - [Presentation](https://docs.google.com/presentation/d/1xk17zQRoHy8TW0qdW7p3gS_zbwOz2UScfclZEK6P-ds/edit?usp=sharing)
 - 04 Express Web Server - [Presentation](https://docs.google.com/presentation/d/1IyK-z95aTWcT0LNyZt5itBbuawNY-zFxaNTih4MhfKQ/edit?usp=sharing)
 - 05 Data Persitance - ORM Library - [Presentation](https://docs.google.com/presentation/d/10ZNOCBy_ltVmGfavtxstEKGugT-uID3bwpb1an0p4gM/edit?usp=sharing)
-- 06 REST API - [Presentation](https://docs.google.com/presentation/d/17hIxbj8vsy7opjUwVM5RIjdRCf41Xts-EGLRMFNJnJg/edit?usp=sharing) 
+- 06 REST API - [Presentation](https://docs.google.com/presentation/d/17hIxbj8vsy7opjUwVM5RIjdRCf41Xts-EGLRMFNJnJg/edit?usp=sharing)
+- 07 SPA + React - [Presentation](https://docs.google.com/presentation/d/1B56tSI6MpSsU3HFNknpdUVJrzYUUSGALptnsOI7sMoU/edit?usp=sharing)
 
 ## Labs
 - 01 N/A
@@ -49,6 +50,11 @@ Forum: [https://github.com/vsb-js/forum-2024-winter/discussions](https://github.
   - You can get 5 points for all the tasks in `src/server.js`
   - 1 extra point as described in README
   - Due Due Oct 30, 2024, 14:36 UTC
+ 
+- 07 React Basics
+  - Assignment: https://classroom.github.com/a/V3zWoe5b
+  - You can get 5 points for the tasks in `README.md`
+  - Due Nov 6, 2024, 15:00 UTC
 
 #### Labs evaluation
 - Your work has to be submitted via GitHub classroom into your assigment repo before the deadline (7-14 days after the date of lab)
