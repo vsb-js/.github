@@ -15,6 +15,7 @@ Forum: [https://github.com/vsb-js/forum-2024-winter/discussions](https://github.
 - 05 Data Persitance - ORM Library - [Presentation](https://docs.google.com/presentation/d/10ZNOCBy_ltVmGfavtxstEKGugT-uID3bwpb1an0p4gM/edit?usp=sharing)
 - 06 REST API - [Presentation](https://docs.google.com/presentation/d/17hIxbj8vsy7opjUwVM5RIjdRCf41Xts-EGLRMFNJnJg/edit?usp=sharing)
 - 07 SPA + React - [Presentation](https://docs.google.com/presentation/d/1B56tSI6MpSsU3HFNknpdUVJrzYUUSGALptnsOI7sMoU/edit?usp=sharing)
+- 08 React - Hooks - [Presentation](https://docs.google.com/presentation/d/1ZgbgIE2W1AmQaO9THlMlmnSforuWer9YRMCPbT2KxWE/edit?usp=sharing)
 
 ## Labs
 - 01 N/A
@@ -54,6 +55,12 @@ Forum: [https://github.com/vsb-js/forum-2024-winter/discussions](https://github.
 - 07 React Basics
   - Assignment: https://classroom.github.com/a/V3zWoe5b
   - You can get 5 points for the tasks in `README.md`
+  - Due Nov 6, 2024, 15:00 UTC
+ 
+- 08 React Hooks
+  - Assignment: https://classroom.github.com/a/IOwdodOa
+  - You can get 5 points for the tasks in `README.md`
+  - 1 extra point for the bonus task
   - Due Nov 6, 2024, 15:00 UTC
 
 #### Labs evaluation
