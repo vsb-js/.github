@@ -16,6 +16,7 @@ Forum: [https://github.com/vsb-js/forum-2024-winter/discussions](https://github.
 - 06 REST API - [Presentation](https://docs.google.com/presentation/d/17hIxbj8vsy7opjUwVM5RIjdRCf41Xts-EGLRMFNJnJg/edit?usp=sharing)
 - 07 SPA + React - [Presentation](https://docs.google.com/presentation/d/1B56tSI6MpSsU3HFNknpdUVJrzYUUSGALptnsOI7sMoU/edit?usp=sharing)
 - 08 React - Hooks - [Presentation](https://docs.google.com/presentation/d/1ZgbgIE2W1AmQaO9THlMlmnSforuWer9YRMCPbT2KxWE/edit?usp=sharing)
+- 09 React Router - [Presentation](https://docs.google.com/presentation/d/12C3805p8gmJlWYj51gHv1nYh4Yg14ozbcQnyP5qLUhk/edit?usp=sharing)
 
 ## Labs
 - 01 N/A
@@ -62,6 +63,12 @@ Forum: [https://github.com/vsb-js/forum-2024-winter/discussions](https://github.
   - You can get 5 points for the tasks in `README.md`
   - 1 extra point for the bonus task
   - Due Nov 6, 2024, 15:00 UTC
+
+- 09 React Router
+  - Assignment: https://classroom.github.com/a/nlbNlWvM
+  - You can get 5 points for the tasks in `README.md`
+  - 1 extra point for the bonus task
+  - Due Nov 20, 2024, 15:00 UTC
 
 #### Labs evaluation
 - Your work has to be submitted via GitHub classroom into your assigment repo before the deadline (7-14 days after the date of lab)
