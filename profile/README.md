@@ -85,7 +85,7 @@ Forum: [https://github.com/vsb-js/forum-2024-winter/discussions](https://github.
   - -1 point - if we can not run your file / project should be without error! 
 
 ### Project - FE & BE React App
-- Assignment: TODO 
+- Assignment: https://classroom.github.com/a/S17EacGj 
 - Deadline: TODO
 - Project information: [here](https://docs.google.com/document/d/1Xn8qX5Meg4MHuIiGZNzHfnLpvN2YuczotkRvW4s9ZuE/edit?usp=sharing)
 - Will be in pairs (2 people per team)   
