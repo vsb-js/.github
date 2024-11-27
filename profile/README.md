@@ -18,6 +18,7 @@ Forum: [https://github.com/vsb-js/forum-2024-winter/discussions](https://github.
 - 08 React - Hooks - [Presentation](https://docs.google.com/presentation/d/1ZgbgIE2W1AmQaO9THlMlmnSforuWer9YRMCPbT2KxWE/edit?usp=sharing)
 - 09 React Router - [Presentation](https://docs.google.com/presentation/d/12C3805p8gmJlWYj51gHv1nYh4Yg14ozbcQnyP5qLUhk/edit?usp=sharing)
 - 10 React UI Frameworks - [Presentation](https://docs.google.com/presentation/d/12MsaWVErwzRyyMdY_iQY9BrjSulgTVERfMH_ErHmU80/edit#slide=id.p1)
+- 11 Remix - [Presentation](https://remix.run/)
 
 ## Labs
 - 01 N/A
