@@ -18,6 +18,9 @@ Forum: [https://github.com/orgs/vsb-js/discussions](https://github.com/orgs/vsb-
       - Install [git](https://desktop.github.com/) (verify using `git --verison` in terminal) - we highly recommend [GitHub Desktop App](https://desktop.github.com/) if you haven't 
       - Make sure you have GitHub account and properly setup your machine to work with git (You should be able to push into your repositories on GitHub - you can use the GitHub desktop app to do that.
       - Install IDE of your choice for JS (Recommended [Visual Studio Code](https://code.visualstudio.com/) or [WebStorm](https://www.jetbrains.com/webstorm/) (Similary to PyCharm))
+  -  Assigment https://classroom.github.com/a/AnsP3IDZ
+- 02 JavaScript Basics
+  - Assigment: TODO
 
 #### Labs evaluation
 - Your work has to be submitted via GitHub classroom into your assigment repo before the deadline (7-14 days after the date of lab)
