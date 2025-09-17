@@ -21,7 +21,10 @@ Forum: [https://github.com/orgs/vsb-js/discussions](https://github.com/orgs/vsb-
       - Install IDE of your choice for JS (Recommended [Visual Studio Code](https://code.visualstudio.com/) or [WebStorm](https://www.jetbrains.com/webstorm/) (Similary to PyCharm))
   -  Assigment https://classroom.github.com/a/AnsP3IDZ
 - 02 JavaScript Basics
-  - Assigment: TODO
+  - Assigment: https://classroom.github.com/a/O1dpChp0
+  - 5 points for all the tasks
+  - +1 bonus point for the bonus task
+  - Deadline: Due Sep 30, 2025, 14:59 UTC
 
 #### Labs evaluation
 - Your work has to be submitted via GitHub classroom into your assigment repo before the deadline (7-14 days after the date of lab)
