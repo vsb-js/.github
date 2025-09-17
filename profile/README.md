@@ -9,6 +9,7 @@ Forum: [https://github.com/orgs/vsb-js/discussions](https://github.com/orgs/vsb-
 ## Lectures
 - 00 Introduction to the subject - [Presentation](https://docs.google.com/presentation/d/10Y7u35mF8S32uy942o9mtZNLY0iJNgf1WloEZlPWZsM/edit?usp=sharing)
 - 01 Introduction to JavaScript - [Presentation](https://docs.google.com/presentation/d/1CAApESNhalJbIfRwQtjunGFLzTpUh--O9_KV7pmEFaM/edit?usp=sharing)
+- 02 JavaScript Basics - [Presentation](https://docs.google.com/presentation/d/1h0pjfksLmPbtpQ1hZddxFFiONCChRvZb7Tl1JbGmnYc/edit?usp=sharing)
 
 ## Labs
 - 01 N/A
