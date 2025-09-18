@@ -23,7 +23,6 @@ Forum: [https://github.com/orgs/vsb-js/discussions](https://github.com/orgs/vsb-
 - 02 JavaScript Basics
   - Assigment: https://classroom.github.com/a/O1dpChp0
   - 5 points for all the tasks
-  - +1 bonus point for the bonus task
   - Deadline: Due Sep 30, 2025, 14:59 UTC
 
 #### Labs evaluation
