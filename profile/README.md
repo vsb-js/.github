@@ -25,6 +25,12 @@ Forum: [https://github.com/orgs/vsb-js/discussions](https://github.com/orgs/vsb-
   - Assigment: https://classroom.github.com/a/O1dpChp0
   - 5 points for all the tasks
   - Deadline: Due Sep 30, 2025, 14:59 UTC
+ 
+- 03 Axios & Node modules
+  - Assigment https://classroom.github.com/a/oghRpVUV
+  - 3 points for all the tasks
+  - 1 Bonus point
+  - Deadline: Due Oct 7, 2025, 14:43 UTC
 
 #### Labs evaluation
 - Your work has to be submitted via GitHub classroom into your assigment repo before the deadline (7-14 days after the date of lab)
