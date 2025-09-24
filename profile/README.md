@@ -10,6 +10,7 @@ Forum: [https://github.com/orgs/vsb-js/discussions](https://github.com/orgs/vsb-
 - 00 Introduction to the subject - [Presentation](https://docs.google.com/presentation/d/10Y7u35mF8S32uy942o9mtZNLY0iJNgf1WloEZlPWZsM/edit?usp=sharing)
 - 01 Introduction to JavaScript - [Presentation](https://docs.google.com/presentation/d/1CAApESNhalJbIfRwQtjunGFLzTpUh--O9_KV7pmEFaM/edit?usp=sharing)
 - 02 JavaScript Basics - [Presentation](https://docs.google.com/presentation/d/1h0pjfksLmPbtpQ1hZddxFFiONCChRvZb7Tl1JbGmnYc/edit?usp=sharing)
+- 03 JavaScript Modules And Debugging - [Presentation](https://docs.google.com/presentation/d/1TZAWmevqWaCagwe491Que-kAPpnZkpjk9c-rIftwn5c/edit?usp=sharing)
 
 ## Labs
 - 01 N/A
@@ -67,7 +68,9 @@ o create and deliver a full application which consists of frontend application b
 
 
 ## Evaluation Process - Winter Semester
-- Lab Work - 50 points
+- Lab Work - 30 points
+- Test 1# - 10 points
+- Test 2# - 10 points
 - Project - 50 points
 
 In total 100 points, 51 required to pass 
