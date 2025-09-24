@@ -27,7 +27,7 @@ Forum: [https://github.com/orgs/vsb-js/discussions](https://github.com/orgs/vsb-
 
 #### Labs evaluation
 - Your work has to be submitted via GitHub classroom into your assigment repo before the deadline (7-14 days after the date of lab)
-- 5 - 6  points for each lab 
+- 3 - 5  points for each lab 
   - 5 points - for finishing the tasks properly ((finished tasks / amount of tasks) * 5)
   - -1 point - if we can not run your file / project should be without error! 
 
