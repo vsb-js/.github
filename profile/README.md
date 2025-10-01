@@ -33,6 +33,14 @@ Forum: [https://github.com/orgs/vsb-js/discussions](https://github.com/orgs/vsb-
   - 1 Bonus point
   - Deadline: Due Oct 7, 2025, 14:43 UTC
 
+- 04 Express Web Server
+  - Assigment https://classroom.github.com/a/aZMxyBSz
+  - 3 points for all the tasks
+  - 1 Bonus point
+  - Deadline: Due Oct 14, 2025, 14:52 UTC
+
+
+
 #### Labs evaluation
 - Your work has to be submitted via GitHub classroom into your assigment repo before the deadline (7-14 days after the date of lab)
 - 3 points for each lab 
