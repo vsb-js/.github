@@ -11,6 +11,7 @@ Forum: [https://github.com/orgs/vsb-js/discussions](https://github.com/orgs/vsb-
 - 01 Introduction to JavaScript - [Presentation](https://docs.google.com/presentation/d/1CAApESNhalJbIfRwQtjunGFLzTpUh--O9_KV7pmEFaM/edit?usp=sharing)
 - 02 JavaScript Basics - [Presentation](https://docs.google.com/presentation/d/1h0pjfksLmPbtpQ1hZddxFFiONCChRvZb7Tl1JbGmnYc/edit?usp=sharing)
 - 03 JavaScript Modules And Debugging - [Presentation](https://docs.google.com/presentation/d/1TZAWmevqWaCagwe491Que-kAPpnZkpjk9c-rIftwn5c/edit?usp=sharing)
+- 04 JavaScript Express API - [Presentation](https://docs.google.com/presentation/d/10gENAJwx_PsTrDARwKeft9ybYOZeeW-MuYvbdMr01MM/edit?usp=sharing)
 
 ## Labs
 - 01 N/A
@@ -34,8 +35,8 @@ Forum: [https://github.com/orgs/vsb-js/discussions](https://github.com/orgs/vsb-
 
 #### Labs evaluation
 - Your work has to be submitted via GitHub classroom into your assigment repo before the deadline (7-14 days after the date of lab)
-- 3 - 5  points for each lab 
-  - 5 points - for finishing the tasks properly ((finished tasks / amount of tasks) * 5)
+- 3 points for each lab 
+  - 3 points - for finishing the tasks properly ((finished tasks / amount of tasks) * 5)
   - -1 point - if we can not run your file / project should be without error! 
 
 ### Project - FE & BE React App
