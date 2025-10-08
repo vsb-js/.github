@@ -12,6 +12,7 @@ Forum: [https://github.com/orgs/vsb-js/discussions](https://github.com/orgs/vsb-
 - 02 JavaScript Basics - [Presentation](https://docs.google.com/presentation/d/1h0pjfksLmPbtpQ1hZddxFFiONCChRvZb7Tl1JbGmnYc/edit?usp=sharing)
 - 03 JavaScript Modules And Debugging - [Presentation](https://docs.google.com/presentation/d/1TZAWmevqWaCagwe491Que-kAPpnZkpjk9c-rIftwn5c/edit?usp=sharing)
 - 04 JavaScript Express API - [Presentation](https://docs.google.com/presentation/d/10gENAJwx_PsTrDARwKeft9ybYOZeeW-MuYvbdMr01MM/edit?usp=sharing)
+- 05 JAvaScript DB / ORM - [Presentation](https://docs.google.com/presentation/d/1gU700FiIL7PTGv4XxUYFMGZCXe98U-0-9WnD0oluN5M/edit?usp=drive_link)
 
 ## Labs
 - 01 N/A
@@ -40,12 +41,15 @@ Forum: [https://github.com/orgs/vsb-js/discussions](https://github.com/orgs/vsb-
   - Deadline: Due Oct 14, 2025, 14:52 UTC
 
 
-
 #### Labs evaluation
 - Your work has to be submitted via GitHub classroom into your assigment repo before the deadline (7-14 days after the date of lab)
 - 3 points for each lab 
   - 3 points - for finishing the tasks properly ((finished tasks / amount of tasks) * 5)
   - -1 point - if we can not run your file / project should be without error! 
+
+## Tests
+- Test 1 - Lectures 1 - 6 (BE) - 10 points - October 29th
+- Test 2 - Lectures 6+ (FE) - 10 points - TBD
 
 ### Project - FE & BE React App
 - Assignment: TBD
@@ -53,7 +57,7 @@ Forum: [https://github.com/orgs/vsb-js/discussions](https://github.com/orgs/vsb-
 - Project information: TBD
 - Will be in pairs (2 people per team)   
 
-TBD - Points from the subject can be found [here]().
+Points from the subject can be found [here](https://docs.google.com/spreadsheets/d/1y8sAGf8mRh1jnmknFKiL5ddiNF440cPUH_HCCoTiA0I/edit?usp=sharing)
 
   
 #### Cheating / copying the code
