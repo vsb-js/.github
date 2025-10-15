@@ -10,9 +10,10 @@ Forum: [https://github.com/orgs/vsb-js/discussions](https://github.com/orgs/vsb-
 - 00 Introduction to the subject - [Presentation](https://docs.google.com/presentation/d/10Y7u35mF8S32uy942o9mtZNLY0iJNgf1WloEZlPWZsM/edit?usp=sharing)
 - 01 Introduction to JavaScript - [Presentation](https://docs.google.com/presentation/d/1CAApESNhalJbIfRwQtjunGFLzTpUh--O9_KV7pmEFaM/edit?usp=sharing)
 - 02 JavaScript Basics - [Presentation](https://docs.google.com/presentation/d/1h0pjfksLmPbtpQ1hZddxFFiONCChRvZb7Tl1JbGmnYc/edit?usp=sharing)
-- 03 JavaScript Modules And Debugging - [Presentation](https://docs.google.com/presentation/d/1TZAWmevqWaCagwe491Que-kAPpnZkpjk9c-rIftwn5c/edit?usp=sharing)
-- 04 JavaScript Express API - [Presentation](https://docs.google.com/presentation/d/10gENAJwx_PsTrDARwKeft9ybYOZeeW-MuYvbdMr01MM/edit?usp=sharing)
-- 05 JAvaScript DB / ORM - [Presentation](https://docs.google.com/presentation/d/1gU700FiIL7PTGv4XxUYFMGZCXe98U-0-9WnD0oluN5M/edit?usp=drive_link)
+- 03 NodeJS Modules And Debugging - [Presentation](https://docs.google.com/presentation/d/1TZAWmevqWaCagwe491Que-kAPpnZkpjk9c-rIftwn5c/edit?usp=sharing)
+- 04 NodeJS Express API - [Presentation](https://docs.google.com/presentation/d/10gENAJwx_PsTrDARwKeft9ybYOZeeW-MuYvbdMr01MM/edit?usp=sharing)
+- 05 NodeJS DB / ORM - [Presentation](https://docs.google.com/presentation/d/1gU700FiIL7PTGv4XxUYFMGZCXe98U-0-9WnD0oluN5M/edit?usp=drive_link)
+- 06 NodeJS Auth / REST API - [Presentation](https://docs.google.com/presentation/d/1CGm02U_6tlOAFR4MZWwKVj0fdV0vSS5MjKGPnMkORYM/edit?usp=sharing)
 
 ## Labs
 - 01 N/A
@@ -43,7 +44,12 @@ Forum: [https://github.com/orgs/vsb-js/discussions](https://github.com/orgs/vsb-
 - 05 ORM
   - Assigment https://classroom.github.com/a/mbVhp7g2
   - 3 points for all the tasks
-  - Deadline: Due Oct 21, 2025, 14:52 UTC  
+  - Deadline: Due Oct 21, 2025, 14:52 UTC
+ 
+- 06 Auth & Rest API
+  - Assigment https://classroom.github.com/a/YcJYnrnk
+  - 3 points for al the tasks
+  - Deadline: Due Oct 28, 2025, 15:08 UTC
 
 
 #### Labs evaluation
