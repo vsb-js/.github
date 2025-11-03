@@ -76,9 +76,9 @@ Forum: [https://github.com/orgs/vsb-js/discussions](https://github.com/orgs/vsb-
 - Test 2 - Lectures 6+ (FE) - 10 points - TBD
 
 ### Project - FE & BE React App
-- Assignment: TBD
-- Deadline: TBD
-- Project information: TBD
+- Assignment: https://classroom.github.com/a/ZI6FgtyA (Please add VSB username to the team name for example Team-VEC0022-PAU0026)
+- Deadline: 15th December 2025
+- Project information: https://docs.google.com/document/d/1icVgWLOHw5eemxp56MQ8KtFMJmpYqO7T_z2CHo_X6Cg/edit?usp=sharing
 - Will be in pairs (2 people per team)   
 
 Points from the subject can be found [here](https://docs.google.com/spreadsheets/d/1y8sAGf8mRh1jnmknFKiL5ddiNF440cPUH_HCCoTiA0I/edit?usp=sharing)
