@@ -16,6 +16,7 @@ Forum: [https://github.com/orgs/vsb-js/discussions](https://github.com/orgs/vsb-
 - 06 NodeJS Auth / REST API - [Presentation](https://docs.google.com/presentation/d/1CGm02U_6tlOAFR4MZWwKVj0fdV0vSS5MjKGPnMkORYM/edit?usp=sharing)
 - 07 Web Apps / SPA & React - [Presentation](https://docs.google.com/presentation/d/1PLeHkQxpPX_yyVCFrT0nNDeFOWZFudu4kxfaBumIpDE/edit?usp=sharing)
 - 08 Functional programming & React Hooks - [Presentation](https://docs.google.com/presentation/d/1OMZ53LhS69GYlEP-oByxLc0ExKDCXojajeEHgYdoHrk/edit?usp=sharing)
+- 09 Routing / React Router - [Presentation](https://docs.google.com/presentation/d/1oJLHURHoX3OKmIE1CZJiPjne4hVfz9lUn-XeM6PHRAA/edit?usp=drive_link)
 
 ## Labs
 - 01 N/A
@@ -63,6 +64,12 @@ Forum: [https://github.com/orgs/vsb-js/discussions](https://github.com/orgs/vsb-
   - 3 points for all the tasks
   - 1 Bonus point
   - Deadline: Due Nov 11, 2025, 19:46 UTC
+ 
+- 09 Routing / React Router
+  - Assignment https://classroom.github.com/a/Csw3a0O3
+  - 2 points for all the tasks
+  - 1 Bonus point
+  - Deadline: Due Nov 18, 2025, 09:49 UTC
 
 
 #### Labs evaluation
