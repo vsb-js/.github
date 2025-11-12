@@ -17,6 +17,7 @@ Forum: [https://github.com/orgs/vsb-js/discussions](https://github.com/orgs/vsb-
 - 07 Web Apps / SPA & React - [Presentation](https://docs.google.com/presentation/d/1PLeHkQxpPX_yyVCFrT0nNDeFOWZFudu4kxfaBumIpDE/edit?usp=sharing)
 - 08 Functional programming & React Hooks - [Presentation](https://docs.google.com/presentation/d/1OMZ53LhS69GYlEP-oByxLc0ExKDCXojajeEHgYdoHrk/edit?usp=sharing)
 - 09 Routing / React Router - [Presentation](https://docs.google.com/presentation/d/1oJLHURHoX3OKmIE1CZJiPjne4hVfz9lUn-XeM6PHRAA/edit?usp=drive_link)
+- 10 React UI Frameworks - [Presentation](https://docs.google.com/presentation/d/1MqGocZ0EMdpGodDtxQK491DPXvMSJUOqThn5uvL1G0k/edit?usp=drive_link)
 
 ## Labs
 - 01 N/A
@@ -70,6 +71,12 @@ Forum: [https://github.com/orgs/vsb-js/discussions](https://github.com/orgs/vsb-
   - 2 points for all the tasks
   - 1 Bonus point
   - Deadline: Due Nov 18, 2025, 09:49 UTC
+ 
+- 10 React UI Frameworks
+  - Assignment https://classroom.github.com/a/Jw9Fbwxd
+  - 2 points for all the tasks
+  - 1 Bonus point
+  - Deadline: Due Nov 25, 2025, 10:26 UTC
 
 
 #### Labs evaluation
