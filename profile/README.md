@@ -5,6 +5,7 @@ Lecture: Wednesday 16:00 - 17:30 - EB208
 Labs: Wednesday 17:45 - 19:15 EB208
 
 Forum: [https://github.com/orgs/vsb-js/discussions](https://github.com/orgs/vsb-js/discussions)
+Contacts: petr.vecera@vsb.cz, dusan.pausly@vsb.cz
 
 ## Lectures
 - 00 Introduction to the subject - [Presentation](https://docs.google.com/presentation/d/10Y7u35mF8S32uy942o9mtZNLY0iJNgf1WloEZlPWZsM/edit?usp=sharing)
