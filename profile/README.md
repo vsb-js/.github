@@ -18,7 +18,8 @@ Forum: [https://github.com/orgs/vsb-js/discussions](https://github.com/orgs/vsb-
 - 08 Functional programming & React Hooks - [Presentation](https://docs.google.com/presentation/d/1OMZ53LhS69GYlEP-oByxLc0ExKDCXojajeEHgYdoHrk/edit?usp=sharing)
 - 09 Routing / React Router - [Presentation](https://docs.google.com/presentation/d/1oJLHURHoX3OKmIE1CZJiPjne4hVfz9lUn-XeM6PHRAA/edit?usp=drive_link)
 - 10 React UI Frameworks - [Presentation](https://docs.google.com/presentation/d/1MqGocZ0EMdpGodDtxQK491DPXvMSJUOqThn5uvL1G0k/edit?usp=drive_link)
-- 11 Authentication & Authorization - [Presentation](https://docs.google.com/presentation/d/1j0eeFRypIhX0A_xiar5DIPbdFHi3bXcY-1B2m72uiD0/edit?usp=drive_link) 
+- 11 Authentication & Authorization - [Presentation](https://docs.google.com/presentation/d/1j0eeFRypIhX0A_xiar5DIPbdFHi3bXcY-1B2m72uiD0/edit?usp=drive_link)
+- 12 Bundling
 
 ## Labs
 - 01 N/A
