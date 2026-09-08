@@ -28,7 +28,7 @@ Contacts: petr.vecera@vsb.cz, dusan.pausly@vsb.cz
   -  Homework:
       - Create GitHub account if you don't have one
       - Install [NodeJS LTS](https://nodejs.org/en/) version (verify using `node -v` in terminal)
-      - Install [git](https://desktop.github.com/) (verify using `git --verison` in terminal) - we highly recommend [GitHub Desktop App](https://desktop.github.com/) if you haven't 
+      - Install [git](https://desktop.github.com/) (verify using `git --version` in terminal) - we highly recommend [GitHub Desktop App](https://desktop.github.com/) if you haven't 
       - Make sure you have GitHub account and properly setup your machine to work with git (You should be able to push into your repositories on GitHub - you can use the GitHub desktop app to do that.
       - Install IDE of your choice for JS (Recommended [Visual Studio Code](https://code.visualstudio.com/) or [WebStorm](https://www.jetbrains.com/webstorm/) (Similary to PyCharm))
   -  Assigment
