@@ -1,27 +1,27 @@
-# JavaScript (Advanced Web Programming) - Winter 2025
+# JavaScript (Advanced Web Programming) - Winter 2026
 General info about the subject JavaScript at VSB for EFREI students
 
-Lecture: Wednesday 16:00 - 17:30 - EB208  
-Labs: Wednesday 17:45 - 19:15 EB208
+Lecture: Tuesday 16:00 - 17:30 - EB208  
+Labs: Tuesday 17:45 - 19:15 EB208
 
 Forum: [https://github.com/orgs/vsb-js/discussions](https://github.com/orgs/vsb-js/discussions)
 
-Contacts: petr.vecera@vsb.cz, dusan.pausly.st@vsb.cz
+Contacts: petr.vecera@vsb.cz, dusan.pausly@vsb.cz
 
 ## Lectures
-- 00 Introduction to the subject - [Presentation](https://docs.google.com/presentation/d/10Y7u35mF8S32uy942o9mtZNLY0iJNgf1WloEZlPWZsM/edit?usp=sharing)
-- 01 Introduction to JavaScript - [Presentation](https://docs.google.com/presentation/d/1CAApESNhalJbIfRwQtjunGFLzTpUh--O9_KV7pmEFaM/edit?usp=sharing)
-- 02 JavaScript Basics - [Presentation](https://docs.google.com/presentation/d/1h0pjfksLmPbtpQ1hZddxFFiONCChRvZb7Tl1JbGmnYc/edit?usp=sharing)
-- 03 NodeJS Modules And Debugging - [Presentation](https://docs.google.com/presentation/d/1TZAWmevqWaCagwe491Que-kAPpnZkpjk9c-rIftwn5c/edit?usp=sharing)
-- 04 NodeJS Express API - [Presentation](https://docs.google.com/presentation/d/10gENAJwx_PsTrDARwKeft9ybYOZeeW-MuYvbdMr01MM/edit?usp=sharing)
-- 05 NodeJS DB / ORM - [Presentation](https://docs.google.com/presentation/d/1gU700FiIL7PTGv4XxUYFMGZCXe98U-0-9WnD0oluN5M/edit?usp=drive_link)
-- 06 NodeJS Auth / REST API - [Presentation](https://docs.google.com/presentation/d/1CGm02U_6tlOAFR4MZWwKVj0fdV0vSS5MjKGPnMkORYM/edit?usp=sharing)
-- 07 Web Apps / SPA & React - [Presentation](https://docs.google.com/presentation/d/1PLeHkQxpPX_yyVCFrT0nNDeFOWZFudu4kxfaBumIpDE/edit?usp=sharing)
-- 08 Functional programming & React Hooks - [Presentation](https://docs.google.com/presentation/d/1OMZ53LhS69GYlEP-oByxLc0ExKDCXojajeEHgYdoHrk/edit?usp=sharing)
-- 09 Routing / React Router - [Presentation](https://docs.google.com/presentation/d/1oJLHURHoX3OKmIE1CZJiPjne4hVfz9lUn-XeM6PHRAA/edit?usp=drive_link)
-- 10 React UI Frameworks - [Presentation](https://docs.google.com/presentation/d/1MqGocZ0EMdpGodDtxQK491DPXvMSJUOqThn5uvL1G0k/edit?usp=drive_link)
-- 11 Authentication & Authorization - [Presentation](https://docs.google.com/presentation/d/1j0eeFRypIhX0A_xiar5DIPbdFHi3bXcY-1B2m72uiD0/edit?usp=drive_link)
-- 12 Bundling, Production & Delivery [Presentation](https://docs.google.com/presentation/d/1rhTv1aHhOpzSWQhaW-ti448lHPvBLCuIlzku9z1Dc24/edit?usp=sharing)
+- 00 Introduction to the subject - [Presentation](https://docs.google.com/presentation/d/1UxbTva5_eELmX6GxKak4LAqt3IDRwYrE_zly0xsYurA/edit?usp=sharing)
+- 01 Introduction to JavaScript - [Presentation](https://docs.google.com/presentation/d/1L1StoAvV74hyPAxA8xFXJ2b0oB4VSSJylu44r5O0RIk/edit?usp=sharing)
+- 02 JavaScript Basics - [Presentation](https://docs.google.com/presentation/d/1zSOtQ5vegtOC3fyvmidX4jb6WrgwBBmxboQE6bPOJjI/edit?usp=sharing)
+- 03 NodeJS Modules And Debugging - [Presentation](https://docs.google.com/presentation/d/1cfW9Xhiey96eZDG3kShtAs_s8v2m9EeZT5G36Jx0haU/edit?usp=sharing)
+- 04 NodeJS Express API - 
+- 05 NodeJS DB / ORM - 
+- 06 NodeJS Auth / REST API -
+- 07 Web Apps / SPA & React -
+- 08 Functional programming & React Hooks - 
+- 09 Routing / React Router - 
+- 10 React UI Frameworks - 
+- 11 Authentication & Authorization -
+- 12 Bundling, Production & Delivery - 
 
 ## Labs
 - 01 N/A
@@ -31,83 +31,84 @@ Contacts: petr.vecera@vsb.cz, dusan.pausly.st@vsb.cz
       - Install [git](https://desktop.github.com/) (verify using `git --verison` in terminal) - we highly recommend [GitHub Desktop App](https://desktop.github.com/) if you haven't 
       - Make sure you have GitHub account and properly setup your machine to work with git (You should be able to push into your repositories on GitHub - you can use the GitHub desktop app to do that.
       - Install IDE of your choice for JS (Recommended [Visual Studio Code](https://code.visualstudio.com/) or [WebStorm](https://www.jetbrains.com/webstorm/) (Similary to PyCharm))
-  -  Assigment https://classroom.github.com/a/AnsP3IDZ
+  -  Assigment
+    
 - 02 JavaScript Basics
-  - Assigment: https://classroom.github.com/a/O1dpChp0
+  - Assigment: 
   - 5 points for all the tasks
-  - Deadline: Due Sep 30, 2025, 14:59 UTC
+  - Deadline: 
  
 - 03 Axios & Node modules
-  - Assigment https://classroom.github.com/a/oghRpVUV
+  - Assigment 
   - 3 points for all the tasks
   - 1 Bonus point
-  - Deadline: Due Oct 7, 2025, 14:43 UTC
+  - Deadline: 
 
 - 04 Express Web Server
-  - Assigment https://classroom.github.com/a/aZMxyBSz
+  - Assigment 
   - 3 points for all the tasks
   - 1 Bonus point
-  - Deadline: Due Oct 14, 2025, 14:52 UTC
+  - Deadline: 
 
 - 05 ORM
-  - Assigment https://classroom.github.com/a/mbVhp7g2
+  - Assigment 
   - 3 points for all the tasks
-  - Deadline: Due Oct 21, 2025, 14:52 UTC
+  - Deadline:
  
 - 06 Auth & Rest API
-  - Assigment https://classroom.github.com/a/YcJYnrnk
+  - Assigment 
   - 3 points for all the tasks
-  - Deadline: Due Oct 28, 2025, 15:08 UTC
+  - Deadline:
  
 - 07 SPA & React
-  - Assignment https://classroom.github.com/a/F8WA4coH
+  - Assignment 
   - 3 points for all the tasks
-  - Deadline: Due Nov 4, 2025, 18:07 UTC
+  - Deadline:
  
 - 08 Functional programming & React Hooks
-  - Assignment https://classroom.github.com/a/uwree4w1
+  - Assignment
   - 3 points for all the tasks
   - 1 Bonus point
-  - Deadline: Due Nov 11, 2025, 19:46 UTC
+  - Deadline:
  
 - 09 Routing / React Router
-  - Assignment https://classroom.github.com/a/Csw3a0O3
+  - Assignment
   - 2 points for all the tasks
   - 1 Bonus point
-  - Deadline: Due Nov 18, 2025, 09:49 UTC
+  - Deadline:
  
 - 10 React UI Frameworks
-  - Assignment https://classroom.github.com/a/Jw9Fbwxd
+  - Assignment
   - 2 points for all the tasks
   - 1 Bonus point
-  - Deadline: Due Nov 25, 2025, 10:26 UTC
+  - Deadline:
  
 - 10 Authentication & Authorization
-  - Assignment https://classroom.github.com/a/pKcidyyX
+  - Assignment
   - 2 points for all the tasks
   - 1 Bonus point
-  - Deadline: Due Dec 1, 2025, 23:31 UTC
+  - Deadline:
 
 
 #### Labs evaluation
-- Your work has to be submitted via GitHub classroom into your assigment repo before the deadline (7-14 days after the date of lab)
+- Your work has to be submitted via classroom50 into your assigment repo before the deadline (7-14 days after the date of lab)
 - 3 points for each lab 
   - 3 points - for finishing the tasks properly ((finished tasks / amount of tasks) * 5)
   - -1 point - if we can not run your file / project should be without error! 
 
 ## Tests
-- Test 1 - Lectures 1 - 6 (BE) - 10 points - October 29th
-- Test 2 - Lectures 6+ (FE) - 10 points - 3. 12. 2025
-- Second chance if you missed the tests - 10. 12. 2025
+- Test 1 - Lectures 1 - 6 (BE) - 10 points - 
+- Test 2 - Lectures 6+ (FE) - 10 points -
+- Second chance if you missed the tests - 
 
 ### Project - FE & BE React App
-- Assignment: https://classroom.github.com/a/ZI6FgtyA (Please add VSB username to the team name for example Team-VEC0022-PAU0026)
-- Deadline: 15th December 2025
-- Project information: https://docs.google.com/document/d/1icVgWLOHw5eemxp56MQ8KtFMJmpYqO7T_z2CHo_X6Cg/edit?usp=sharing
+- Assignment: (Please add VSB username to the team name for example Team-VEC0022-PAU0026)
+- Deadline: 
+- Project information: https://docs.google.com/document/d/1y5X_8yGRvdEWx0k0qi5lKBByPkHVWpABeAT3r3qIay0/edit?usp=sharing
 - Will be in pairs (2 people per team)
-- Possible Live presentations of the project - 17. 12. 2025   
+- Possible Live presentations of the project - 
 
-Points from the subject can be found [here](https://docs.google.com/spreadsheets/d/1y8sAGf8mRh1jnmknFKiL5ddiNF440cPUH_HCCoTiA0I/edit?usp=sharing)
+Points from the subject can be found [here]()
 
   
 #### Cheating / copying the code
