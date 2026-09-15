@@ -34,9 +34,9 @@ Contacts: petr.vecera@vsb.cz, dusan.pausly@vsb.cz
   -  Assigment
     
 - 02 JavaScript Basics
-  - Assigment: 
+  - Assigment: https://classroom50.org/vsb-js/2026w/assignments/lab-02-2026w/accept
   - 5 points for all the tasks
-  - Deadline: 
+  - Deadline: Due Sep 29, 2026, 12:59 PM
  
 - 03 Axios & Node modules
   - Assigment 
