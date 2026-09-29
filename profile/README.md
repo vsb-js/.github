@@ -83,7 +83,7 @@ Contacts: petr.vecera@vsb.cz, dusan.pausly@vsb.cz
   - 1 Bonus point
   - Deadline:
  
-- 10 Authentication & Authorization
+- 11 Authentication & Authorization
   - Assignment
   - 2 points for all the tasks
   - 1 Bonus point
