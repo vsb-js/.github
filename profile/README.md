@@ -45,7 +45,7 @@ Contacts: petr.vecera@vsb.cz, dusan.pausly@vsb.cz
   - Deadline: Due Oct 6, 2026, 11:59 PM GMT+2
 
 - 04 Express Web Server
-  - Assigment 
+  - Assigment: https://classroom50.org/vsb-js/2026w/assignments/lab-04-2026w/accept 
   - 3 points for all the tasks
   - 1 Bonus point
   - Deadline: 
