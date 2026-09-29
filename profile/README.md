@@ -35,7 +35,7 @@ Contacts: petr.vecera@vsb.cz, dusan.pausly@vsb.cz
     
 - 02 JavaScript Basics
   - Assigment: https://classroom50.org/vsb-js/2026w/assignments/lab-02-2026w/accept
-  - 5 points for all the tasks
+  - 3 points for all the tasks
   - Deadline: Due Sep 29, 2026, 12:59 PM
  
 - 03 Axios & Node modules
@@ -73,19 +73,19 @@ Contacts: petr.vecera@vsb.cz, dusan.pausly@vsb.cz
  
 - 09 Routing / React Router
   - Assignment
-  - 2 points for all the tasks
+  - 3 points for all the tasks
   - 1 Bonus point
   - Deadline:
  
 - 10 React UI Frameworks
   - Assignment
-  - 2 points for all the tasks
+  - 3 points for all the tasks
   - 1 Bonus point
   - Deadline:
  
 - 11 Authentication & Authorization
   - Assignment
-  - 2 points for all the tasks
+  - 3 points for all the tasks
   - 1 Bonus point
   - Deadline:
 
