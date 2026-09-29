@@ -97,7 +97,7 @@ Contacts: petr.vecera@vsb.cz, dusan.pausly@vsb.cz
   - -1 point - if we can not run your file / project should be without error! 
 
 ## Tests
-- Test 1 - Lectures 1 - 6 (BE) - 10 points - 
+- Test 1 - Lectures 1 - 6 (BE) - 10 points - 20th of October 2026
 - Test 2 - Lectures 6+ (FE) - 10 points -
 - Second chance if you missed the tests - 
 
