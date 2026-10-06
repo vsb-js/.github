@@ -14,7 +14,7 @@ Contacts: petr.vecera@vsb.cz, dusan.pausly@vsb.cz
 - 02 JavaScript Basics - [Presentation](https://docs.google.com/presentation/d/1zSOtQ5vegtOC3fyvmidX4jb6WrgwBBmxboQE6bPOJjI/edit?usp=sharing)
 - 03 NodeJS Modules And Debugging - [Presentation](https://docs.google.com/presentation/d/1cfW9Xhiey96eZDG3kShtAs_s8v2m9EeZT5G36Jx0haU/edit?usp=sharing)
 - 04 NodeJS Typescript / Express API - [Presentation](https://docs.google.com/presentation/d/1qLwvO3sFKObj-QFUT-L48Bz6-R_aknBY5-fscxiuwtw/edit?usp=sharing)
-- 05 NodeJS DB / ORM - 
+- 05 NodeJS DB / ORM - [Presentation](https://docs.google.com/presentation/d/1EKApPlIy3csnwnoosNiscN7BG-aYHw37Y4x9SDiZttc/edit?usp=sharing)
 - 06 NodeJS Auth / REST API -
 - 07 Web Apps / SPA & React -
 - 08 Functional programming & React Hooks - 
