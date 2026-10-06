@@ -51,7 +51,7 @@ Contacts: petr.vecera@vsb.cz, dusan.pausly@vsb.cz
   - Deadline: 
 
 - 05 ORM
-  - Assigment 
+  - Assigment: https://classroom50.org/vsb-js/2026w/assignments/lab-05-2026w/accept
   - 3 points for all the tasks
   - Deadline:
  
