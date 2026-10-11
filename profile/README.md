@@ -16,12 +16,13 @@ Contacts: petr.vecera@vsb.cz, dusan.pausly@vsb.cz
 - 04 NodeJS Typescript / Express API - [Presentation](https://docs.google.com/presentation/d/1qLwvO3sFKObj-QFUT-L48Bz6-R_aknBY5-fscxiuwtw/edit?usp=sharing)
 - 05 NodeJS DB / ORM - [Presentation](https://docs.google.com/presentation/d/1W3rzCp11mBsrUAZC_wcXfZcJQcOdGYjX/edit?usp=sharing&rtpof=true&sd=true)
 - 06 NodeJS Auth / REST API -
-- 07 Web Apps / SPA & React -
-- 08 Functional programming & React Hooks - 
-- 09 Routing / React Router - 
-- 10 React UI Frameworks - 
-- 11 Authentication & Authorization -
-- 12 Bundling, Production & Delivery - 
+- 👋🎌🍜
+- 07 Web Apps / SPA & React - [Presentation](https://docs.google.com/presentation/d/1lsyyTMVP3C4fxrDr6vGdcMoYXiaotSJTygodmHoHaqo/edit?usp=drive_link)
+- 08 Functional programming & React Hooks - [Presentation](https://docs.google.com/presentation/d/1S-I3Rgi9cApSwpzjo2ffyDiSnPCoRa6OgA9Da47z410/edit?usp=drive_link)
+- 09 Routing / React Router - [Presentation](https://docs.google.com/presentation/d/1LX30C2WSxjlKUZj54QfGfcUAhuos8dJHG3mjS8tLV8g/edit?usp=drive_link)
+- 10 React UI Frameworks - [Presentation](https://docs.google.com/presentation/d/1l0t5rF9ymvPw_Y05vpr9_dqjI9hiLObw9g2Ix7_bZ_A/edit?usp=drive_link)
+- 11 Authentication & Authorization - [Presentation](https://docs.google.com/presentation/d/1sir3g9vYbLanTzgzdAfeHo94bz6y_6Fc60mGOc1i3qc/edit?usp=drive_link)
+- 12 Bundling, Production & Delivery - [Presentation](https://docs.google.com/presentation/d/1uiAifeageH_hUVUmfBMiEA2U9lBZ81U9dhWbP2tRwE8/edit?usp=drive_link)
 
 ## Labs
 - 01 N/A
