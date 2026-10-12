@@ -97,6 +97,8 @@ Contacts: petr.vecera@vsb.cz, dusan.pausly@vsb.cz
   - 3 points - for finishing the tasks properly ((finished tasks / amount of tasks) * 5)
   - -1 point - if we can not run your file / project should be without error! 
 
+Points from the subject can be found [here](https://docs.google.com/spreadsheets/d/1l1oJL6PiLWq8r68sGaJ2kx6IHuWSeex8lluENQTZ_LI/edit?usp=sharing)
+
 ## Tests
 - Test 1 - Lectures 1 - 6 (BE) - 10 points - 20th of October 2026
 - Test 2 - Lectures 6+ (FE) - 10 points -
@@ -109,7 +111,6 @@ Contacts: petr.vecera@vsb.cz, dusan.pausly@vsb.cz
 - Will be in pairs (2 people per team)
 - Possible Live presentations of the project - 
 
-Points from the subject can be found [here]()
 
   
 #### Cheating / copying the code
