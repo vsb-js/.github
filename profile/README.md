@@ -15,7 +15,7 @@ Contacts: petr.vecera@vsb.cz, dusan.pausly@vsb.cz
 - 03 NodeJS Modules And Debugging - [Presentation](https://docs.google.com/presentation/d/1cfW9Xhiey96eZDG3kShtAs_s8v2m9EeZT5G36Jx0haU/edit?usp=sharing)
 - 04 NodeJS Typescript / Express API - [Presentation](https://docs.google.com/presentation/d/1qLwvO3sFKObj-QFUT-L48Bz6-R_aknBY5-fscxiuwtw/edit?usp=sharing)
 - 05 NodeJS DB / ORM - [Presentation](https://docs.google.com/presentation/d/1W3rzCp11mBsrUAZC_wcXfZcJQcOdGYjX/edit?usp=sharing&rtpof=true&sd=true)
-- 06 NodeJS Auth / REST API -
+- 06 NodeJS Auth / REST API - [Presentation](https://docs.google.com/presentation/d/1lo7mud2ig0uabhxr7FE41s27MAj_GZvu/edit?usp=sharing&ouid=110226166434817898024&rtpof=true&sd=true)
 - 👋🎌🍜
 - 07 Web Apps / SPA & React - [Presentation](https://docs.google.com/presentation/d/1lsyyTMVP3C4fxrDr6vGdcMoYXiaotSJTygodmHoHaqo/edit?usp=drive_link)
 - 08 Functional programming & React Hooks - [Presentation](https://docs.google.com/presentation/d/1S-I3Rgi9cApSwpzjo2ffyDiSnPCoRa6OgA9Da47z410/edit?usp=drive_link)
@@ -57,7 +57,7 @@ Contacts: petr.vecera@vsb.cz, dusan.pausly@vsb.cz
   - Deadline:
  
 - 06 Auth & Rest API
-  - Assigment 
+  - Assigment https://classroom50.org/vsb-js/2026w/assignments/lab-06-2026w/accept
   - 3 points for all the tasks
   - Deadline:
  
