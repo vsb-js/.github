@@ -54,17 +54,17 @@ Contacts: petr.vecera@vsb.cz, dusan.pausly@vsb.cz
 - 05 ORM
   - Assigment: https://classroom50.org/vsb-js/2026w/assignments/lab-05-2026w/accept
   - 3 points for all the tasks
-  - Deadline:
+  - Deadline: Due Oct 26, 2026, 11:59 PM GMT+1
  
 - 06 Auth & Rest API
   - Assigment https://classroom50.org/vsb-js/2026w/assignments/lab-06-2026w/accept
   - 3 points for all the tasks
-  - Deadline:
+  - Deadline: Due Nov 2, 2026, 11:59 PM GMT+1
  
 - 07 SPA & React
-  - Assignment https://classroom50.org/vsb-js/2026w/assignments/lab-06-2026w/accept
+  - Assignment 
   - 3 points for all the tasks
-  - Deadline:
+  - Deadline: 
  
 - 08 Functional programming & React Hooks
   - Assignment
