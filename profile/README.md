@@ -62,9 +62,10 @@ Contacts: petr.vecera@vsb.cz, dusan.pausly@vsb.cz
   - Deadline: Due Nov 2, 2026, 11:59 PM GMT+1
  
 - 07 SPA & React
-  - Assignment 
+  - Assignment https://classroom50.org/vsb-js/2026w/assignments/lab-07-2026w/accept
   - 3 points for all the tasks
-  - Deadline: 
+  - Deadline: Due Nov 3, 2026, 11:59 PM GMT+1
+
  
 - 08 Functional programming & React Hooks
   - Assignment
