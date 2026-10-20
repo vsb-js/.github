@@ -49,7 +49,7 @@ Contacts: petr.vecera@vsb.cz, dusan.pausly@vsb.cz
   - Assigment: https://classroom50.org/vsb-js/2026w/assignments/lab-04-2026w/accept 
   - 3 points for all the tasks
   - 1 Bonus point
-  - Deadline: 
+  - Deadline: Due Oct 12, 2026, 11:59 PM GMT+2
 
 - 05 ORM
   - Assigment: https://classroom50.org/vsb-js/2026w/assignments/lab-05-2026w/accept
