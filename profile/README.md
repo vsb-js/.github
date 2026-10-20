@@ -62,7 +62,7 @@ Contacts: petr.vecera@vsb.cz, dusan.pausly@vsb.cz
   - Deadline:
  
 - 07 SPA & React
-  - Assignment 
+  - Assignment https://classroom50.org/vsb-js/2026w/assignments/lab-06-2026w/accept
   - 3 points for all the tasks
   - Deadline:
  
