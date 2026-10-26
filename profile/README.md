@@ -68,10 +68,10 @@ Contacts: petr.vecera@vsb.cz, dusan.pausly@vsb.cz
 
  
 - 08 Functional programming & React Hooks
-  - Assignment
+  - Assignment https://classroom50.org/vsb-js/2026w/assignments/lab-08-2026w/accept
   - 3 points for all the tasks
   - 1 Bonus point
-  - Deadline:
+  - Deadline: Due Nov 17, 2026, 11:59 PM GMT+1
  
 - 09 Routing / React Router
   - Assignment
