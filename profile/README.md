@@ -18,7 +18,7 @@ Contacts: petr.vecera@vsb.cz, dusan.pausly@vsb.cz
 - 06 NodeJS Auth / REST API - [Presentation](https://docs.google.com/presentation/d/1lo7mud2ig0uabhxr7FE41s27MAj_GZvu/edit?usp=sharing&ouid=110226166434817898024&rtpof=true&sd=true)
 - 👋🎌🍜
 - 07 Web Apps / SPA & React - [Presentation](https://docs.google.com/presentation/d/1lsyyTMVP3C4fxrDr6vGdcMoYXiaotSJTygodmHoHaqo/edit?usp=drive_link)
-- 08 Functional programming & React Hooks - [Presentation](https://docs.google.com/presentation/d/1URjn4xwvV3H6Avg6OB4p1PiJiKkjuQYV/edit?usp=sharing&ouid=110619192968638182231&rtpof=true&sd=true)
+- 08 Functional programming & React Hooks - [Presentation](https://docs.google.com/presentation/d/1URjn4xwvV3H6Avg6OB4p1PiJiKkjuQYV/edit?usp=sharing&ouid=110226166434817898024&rtpof=true&sd=true)
 - 09 Routing / React Router - [Presentation](https://docs.google.com/presentation/d/1LX30C2WSxjlKUZj54QfGfcUAhuos8dJHG3mjS8tLV8g/edit?usp=drive_link)
 - 10 React UI Frameworks - [Presentation](https://docs.google.com/presentation/d/1l0t5rF9ymvPw_Y05vpr9_dqjI9hiLObw9g2Ix7_bZ_A/edit?usp=drive_link)
 - 11 Authentication & Authorization - [Presentation](https://docs.google.com/presentation/d/1sir3g9vYbLanTzgzdAfeHo94bz6y_6Fc60mGOc1i3qc/edit?usp=drive_link)
