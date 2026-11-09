@@ -80,10 +80,10 @@ Contacts: petr.vecera@vsb.cz, dusan.pausly@vsb.cz
   - Deadline: Due Nov 24, 2026, 11:59 PM GMT+1
  
 - 10 React UI Frameworks
-  - Assignment
+  - Assignment https://classroom50.org/vsb-js/2026w/assignments/lab-10-2026w/accept
   - 3 points for all the tasks
   - 1 Bonus point
-  - Deadline:
+  - Deadline: Due Nov 24, 2026, 11:59 PM GMT+1
  
 - 11 Authentication & Authorization
   - Assignment
