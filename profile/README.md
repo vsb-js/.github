@@ -106,11 +106,11 @@ Points from the subject can be found [here](https://docs.google.com/spreadsheets
 - Second chance if you missed the tests - 
 
 ### Project - FE & BE React App
-- Assignment: (Please add VSB username to the team name for example Team-VEC0022-PAU0026)
-- Deadline: 
+- Assignment: https://classroom50.org/vsb-js/2026w/assignments/project-2026w/accept
+- Deadline:  15th of December
 - Project information: https://docs.google.com/document/d/1y5X_8yGRvdEWx0k0qi5lKBByPkHVWpABeAT3r3qIay0/edit?usp=sharing
 - Will be in pairs (2 people per team)
-- Possible Live presentations of the project - 
+- Possible Live presentations of the project - 8th of December
 
 
   
