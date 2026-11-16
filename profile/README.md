@@ -102,7 +102,7 @@ Points from the subject can be found [here](https://docs.google.com/spreadsheets
 
 ## Tests
 - Test 1 - Lectures 1 - 6 (BE) - 10 points - 20th of October 2026
-- Test 2 - Lectures 6+ (FE) - 10 points -
+- Test 2 - Lectures 6+ (FE) - 10 points - 8tf of December 2026
 - Second chance if you missed the tests - 
 
 ### Project - FE & BE React App
